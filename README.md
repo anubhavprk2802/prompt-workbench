@@ -123,12 +123,6 @@ Run tests:
 python -m unittest discover -s tests -v
 ```
 
-## Screenshots
-
-> Add an overview screenshot here.
-
-> Add a transformed-prompt and detection-summary screenshot here.
-
 ## Project structure
 
 ```text
